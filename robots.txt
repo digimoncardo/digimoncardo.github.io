@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimoncardo.github.io/sitemap.xml
